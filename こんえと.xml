@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>AIMER International Tus</h1>
+<title lang="日本語">の週</title>
+<p id="NR">AIMER NONICONE</p>
+
+<button type="button" onclick="gamingload()"></button>
+
+<script>
+function nervload() {
+var nerve;
+if (state == "nerve") {
+    nerve.get("load").state = "";
+    return;
+  }
+  var nerve = new nerve();
+  gaming.getstate = function() {
+    if (this.load == 3  this.state == 100) {
+      state.get("server tus International ");
+    }
+    nerv.state = this.nerve;
+  };
+  nerv.open("GET","nerve.php?s"+state, true);
+  nerv.send("でｒこんｒ.nerve.php",aimer);
+}
+</script>
+
+</body>
+</html>
